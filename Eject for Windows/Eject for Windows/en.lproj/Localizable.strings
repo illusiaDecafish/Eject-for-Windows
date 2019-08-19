@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  Eject for Windows
+
+  Created by decafish on 2019/08/19.
+  Copyright © 2019 illusia decafish. All rights reserved.
+*/
+"Can not be carried out." = "Can not be carried out.";
+"Volume" = "Volume";
+"is not removable" = " is not removable";
+"is not writable" = " is not writable";
+"is not unmountable" = " is not unmountable";
+"Do you want to continue to remove?" = "Do you want to continue to remove?";
+"is not a FAT format" = " is not a FAT format";
+"is a folder" = " is a folder";
+"is a normal file" = " is a normal file";
+"Suspend" = "Suspend";
+"Continue" = "Continue";
+"OK" = "OK";
+"Perhaps there is encoding error or something." = "Perhaps there is encoding error or something.";
+"The device is not mounted." = "The device is not mounted.";
+"The device cannot be unmounted somehow." = "The device cannot be unmounted somehow.";
+"An application currently uses the device." = "An application currently uses the device.";

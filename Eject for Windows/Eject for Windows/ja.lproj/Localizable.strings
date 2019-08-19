@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  Eject for Windows
+
+  Created by decafish on 2019/08/19.
+  Copyright © 2019 illusia decafish. All rights reserved.
+*/
+"Can not be carried out." = "操作を完了できませんでした。";
+"Volume" = "ボリューム";
+"is not removable" = "はリムーバブルではありません";
+"is not writable" = "は書き込み可能ではありません";
+"is not unmountable" = "は取り出せません";
+"Do you want to continue to remove?" = "このまま消去を継続していいですか?";
+"is not a FAT format" = "はFATフォーマットではありません";
+"is a folder" = "はフォルダです";
+"is a normal file" = "は通常ファイルです";
+"Suspend" = "とりやめ";
+"Continue" = "つづける";
+"OK" = "OK";
+"Perhaps there is encoding error or something." = "たぶんエンコーディングにまつわるエラーです。";
+"The device is not mounted." = "マウントされているデバイスではありません。";
+"The device cannot be unmounted somehow." = "何らかの理由でデバイスを取り外せませんでした。";
+"An application currently uses the device." = "デバイスを使用しているアプリがあります。";
